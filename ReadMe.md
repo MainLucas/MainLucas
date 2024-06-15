@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Estudante de Análise e Desenvolvimento de Sistemas.<br>
-Futuro Engenheiro de Software! <br>
+🔭 Futuro Engenheiro de Software! <br>
 
 
 ## 🌐 Socials:
