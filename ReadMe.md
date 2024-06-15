@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Estudante desenvolvedor Full Stack.<br>
+🔭 Estudante de Análise e Desenvolvimento de Sistemas.<br>
+Futuro Engenheiro de Software! <br>
 
 
 ## 🌐 Socials:
